@@ -90,7 +90,7 @@ img {
   visibility: hidden; }
 
 .logo a {
-  font-family: "Oswald" Helvetica, Arial, sans-serif;
+  font-family: "Oswald", Helvetica, Arial, sans-serif;
   text-transform: lowercase;
   font-weight: 300;
   font-size: 36px;
