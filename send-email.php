@@ -1,10 +1,10 @@
 <?php
 
 /* Modification by Toni for Windows servers */
-ini_set("sendmail_from", "info@sitiosflex.com");
+ini_set("sendmail_from", "yoursite@yourcompany.com");
 
-$EmailFrom = "info@sitiosflex.com";
-$EmailTo = "efrainbarcena@gmail.com";
+$EmailFrom = "yoursite@yourcompany.com";
+$EmailTo = "youremaila@yoursite.com";
 $Subject = "Green Clean Estimate Inquiry Form";
 $firstname = Trim(stripslashes($_POST['firstname']));
 $lastname = Trim(stripslashes($_POST['lastname']));
